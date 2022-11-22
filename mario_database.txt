@@ -1,0 +1,3 @@
+Insert ROWS
+
+INSERT INTO table_name(column_1, column_2) VALUES(value1, value2);
